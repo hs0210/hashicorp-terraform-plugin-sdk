@@ -40,13 +40,14 @@ require (
 	github.com/mitchellh/reflectwalk v1.0.1
 	github.com/pierrec/lz4 v2.0.5+incompatible
 	github.com/posener/complete v1.2.1 // indirect
-	github.com/spf13/afero v1.2.2
+	github.com/spf13/afero v1.5.1
 	github.com/vmihailenco/msgpack v4.0.1+incompatible // indirect
 	github.com/zclconf/go-cty v1.1.0
 	github.com/zclconf/go-cty-yaml v1.0.1
 	golang.org/x/crypto v0.0.0-20190820162420-60c769a6c586
 	golang.org/x/net v0.0.0-20191009170851-d66e71096ffb
 	golang.org/x/sys v0.0.0-20190804053845-51ab0e2deafa // indirect
+	golang.org/x/text v0.3.5 // indirect
 	golang.org/x/tools v0.0.0-20190628153133-6cdbf07be9d0
 	google.golang.org/grpc v1.23.0
 )
