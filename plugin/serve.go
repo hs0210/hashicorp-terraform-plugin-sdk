@@ -4,7 +4,7 @@ import (
 	hclog "github.com/hashicorp/go-hclog"
 	"github.com/hashicorp/go-plugin"
 	grpcplugin "github.com/hashicorp/terraform-plugin-sdk/internal/helper/plugin"
-	proto "github.com/hashicorp/terraform-plugin-sdk/internal/tfplugin5"
+	proto "github.com/hashicorp/terraform-plugin-sdk/tfplugin5"
 	"github.com/hashicorp/terraform-plugin-sdk/terraform"
 )
 
