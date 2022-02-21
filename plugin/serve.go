@@ -3,8 +3,8 @@ package plugin
 import (
 	hclog "github.com/hashicorp/go-hclog"
 	"github.com/hashicorp/go-plugin"
+	proto "github.com/hashicorp/terraform-plugin-go/tfplugin5"
 	grpcplugin "github.com/hashicorp/terraform-plugin-sdk/internal/helper/plugin"
-	proto "github.com/hashicorp/terraform-plugin-sdk/tfplugin5"
 	"github.com/hashicorp/terraform-plugin-sdk/terraform"
 )
 

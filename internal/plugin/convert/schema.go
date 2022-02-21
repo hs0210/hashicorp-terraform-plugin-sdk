@@ -6,9 +6,9 @@ import (
 	"reflect"
 	"sort"
 
+	proto "github.com/hashicorp/terraform-plugin-go/tfplugin5"
 	"github.com/hashicorp/terraform-plugin-sdk/internal/configs/configschema"
 	"github.com/hashicorp/terraform-plugin-sdk/internal/providers"
-	proto "github.com/hashicorp/terraform-plugin-sdk/tfplugin5"
 )
 
 // ConfigSchemaToProto takes a *configschema.Block and converts it to a
